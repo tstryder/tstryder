@@ -35,7 +35,21 @@ A complete system designed to scrape, filter, and classify thousands of internat
 #### 🔗 [API Integration Hub](https://github.com/tstryder)
 Custom connectors between diverse platforms to automate business communications and data sync.
 * **Tech:** Python, n8n, Webhooks.
+  
+---
 
+```mermaid
+graph TD
+    A[Raw Web Scraping <br/> ~5600 leads/day] --> B{Heuristic Filter}
+    B -->|Remove Spams/Scams| C[Refined Data]
+    C --> D{Semantic Analysis <br/> AI/Manual}
+    D -->|Visa/Location Check| E[Qualified Opportunities]
+    E --> F{Classification}
+    F -->|Greenflag| G[Premium Feed]
+    F -->|Staffing| H[General Feed]
+    G --> I[Community Delivery <br/> WhatsApp/Discord/LinkedIn]
+    H --> I
+```
 ---
 
 ### 📊 GitHub Stats
