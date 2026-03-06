@@ -72,6 +72,12 @@ graph TD
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tstryder/tstryder/output/github-snake-dark.svg" alt="Snake Game" />
+</p>
+
+---
 ### 📫 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/bruno-lucusi" target="_blank">
