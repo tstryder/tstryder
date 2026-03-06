@@ -35,7 +35,15 @@ A complete system designed to scrape, filter, and classify thousands of internat
 #### 🔗 [API Integration Hub](https://github.com/tstryder)
 Custom connectors between diverse platforms to automate business communications and data sync.
 * **Tech:** Python, n8n, Webhooks.
-  
+
+## 🌐 Infrastructure & DevOps
+I design environments focused on **high availability** and **continuous operation** (24/7 uptime).
+
+* **Cloud Architecture:** Deployment and orchestration of automation environments on **Oracle Cloud Infrastructure** and **AWS**.
+* **Containerization:** Utilizing **Docker** to ensure environment isolation, portability, and streamlined deployment of scrapers and bots.
+* **System Administration:** Advanced management of **Linux (Ubuntu Server)** environments via SSH, specializing in process monitoring and resource optimization.
+* **CI/CD for Automation:** Implementing automated workflows to ensure code integrity and persistent execution.
+
 ---
 
 ```mermaid
