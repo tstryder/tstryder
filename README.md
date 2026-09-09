@@ -88,11 +88,11 @@ I design environments focused on **high availability**, security, and persistent
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tstryder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tstryder&layout=compact&theme=tokyonight&langs_count=8&card_width=495" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tstryder&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api?username=tstryder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<br><br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tstryder&layout=compact&theme=tokyonight&langs_count=8&card_width=495" />
+<br><br>
+<img src="https://streak-stats.demolab.com/?user=tstryder&theme=tokyonight" />
 </p>
 
 ---
